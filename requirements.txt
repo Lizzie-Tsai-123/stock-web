@@ -3,6 +3,5 @@ Flask-Cors
 gunicorn
 numpy
 scikit-learn
-TA-Lib
 datetime
 mplfinance
