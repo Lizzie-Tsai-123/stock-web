@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+gunicorn
+numpy
+scikit-learn
+talib
+datetime
+time
+mplfinance
